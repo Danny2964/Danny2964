@@ -40,7 +40,7 @@ Boston-house-price-data.csv: The dataset used for the analysis.
 README.md: Documentation of the project.
 Libraries and Tools Used
 Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
-Google Colab / Jupyter Notebook
+Google Colab 
 Acknowledgments
 Dataset: Kaggle provides this dataset.
 Tools: The sci-kit-learn library was used to build and evaluate models.
