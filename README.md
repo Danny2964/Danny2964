@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 - **Operating Systems**: Windows, Linux, Mac OS
 
 ### 🎓 Education:
-- **Bachelor of Applied Science in Cybersecurity**, George Mason University, Expected Graduation: July 2024
+- **Bachelor of Applied Science in Cybersecurity**, George Mason University, Expected Graduation: December 2024
 - **Associate of Applied Science in Cybersecurity**, Northern Virginia Community College
 - **Google Cybersecurity Professional Certificate**
 
