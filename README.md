@@ -3,7 +3,7 @@ Danny2964/Danny2964 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## 👋 Hi, I'm Danny2964
+## 👋 Hi, I'm Danny Bless Adjei
 
 Boston House Price Prediction
 This project aims to predict house prices in Boston using various machine-learning models. It explores regression, classification, and clustering techniques on the Boston housing dataset to effectively analyze and categorize house prices.
